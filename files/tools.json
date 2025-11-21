@@ -1,0 +1,16 @@
+{
+  "tools": [
+    { "name": ".Net Core" },
+    { "name": "MS Sql Server" },
+    { "name": "Entity Framework" },
+    { "name": "JavaScript" },
+    { "name": "TypeScript" },
+    { "name": "ASP.NET Core Identity" },
+    { "name": "RESTful APIs" },
+    { "name": "Git & GitHub" },
+    { "name": "Visual Studio" },
+    { "name": "Visual Studio Code"},
+    { "name": "Swagger" },
+    { "name": "Postman" }
+  ]
+}
