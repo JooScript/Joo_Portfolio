@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "A full-featured e-commerce platform built with Next.js, featuring product catalog, shopping cart, and payment integration with Stripe.",
+    "longDescription": "This project demonstrates a complete e-commerce solution with real-time inventory management, user authentication, and a modern checkout experience. Built with Next.js for frontend and Node.js for backend APIs. The platform includes advanced features like personalized recommendations, wishlist functionality, and multi-currency support.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "mainFeatures": [
+      "Real-time inventory management",
+      "Secure payment integration with Stripe",
+      "User authentication and profiles",
+      "Shopping cart and wishlist",
+      "Order tracking system",
+      "Admin dashboard for analytics"
+    ],
+    "gallery": [
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600"
+    ],
+    "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "Stripe", "PostgreSQL", "Redis"],
+    "liveUrl": "https://example.com",
+    "githubUrl": "https://github.com",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Social Media Dashboard",
+    "description": "Real-time analytics dashboard for social media management with data visualization and user insights.",
+    "longDescription": "A comprehensive dashboard that aggregates data from multiple social media platforms, providing real-time analytics, engagement metrics, and actionable insights for content creators. Features include automated scheduling, performance tracking, and competitor analysis tools.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "mainFeatures": [
+      "Multi-platform data aggregation",
+      "Real-time analytics and reporting",
+      "Content scheduling and automation",
+      "Performance metrics and insights",
+      "Competitor analysis",
+      "Team collaboration tools"
+    ],
+    "gallery": [
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600"
+    ],
+    "technologies": ["React", "Recharts", "Node.js", "MongoDB", "Socket.io"],
+    "liveUrl": "https://example.com",
+    "githubUrl": "https://github.com",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Task Management App",
+    "description": "Collaborative task management application with real-time updates and team features.",
+    "longDescription": "A modern task management solution featuring real-time collaboration, team workspaces, and integrated communication tools. Built with cutting-edge web technologies for optimal performance. Supports Kanban boards, timeline views, and automated workflows.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "mainFeatures": [
+      "Real-time collaboration",
+      "Kanban board and timeline views",
+      "Team workspace management",
+      "Task automation and workflows",
+      "Comments and file attachments",
+      "Notification system"
+    ],
+    "gallery": [
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600"
+    ],
+    "technologies": ["Next.js", "Supabase", "React Query", "TypeScript"],
+    "liveUrl": "https://example.com",
+    "githubUrl": "https://github.com",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "title": "AI Content Generator",
+    "description": "AI-powered content generation tool for creating blog posts, social media content, and marketing copy.",
+    "longDescription": "Leveraging advanced AI models, this application helps content creators generate high-quality, optimized content across multiple platforms. Features include tone customization and SEO optimization. The tool uses GPT technology for intelligent content creation.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "mainFeatures": [
+      "AI-powered content generation",
+      "Multiple content format support",
+      "Tone and style customization",
+      "SEO optimization suggestions",
+      "Content templates library",
+      "Plagiarism detection"
+    ],
+    "gallery": [
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600"
+    ],
+    "technologies": ["Next.js", "OpenAI API", "Tailwind CSS", "Vercel"],
+    "liveUrl": "https://example.com",
+    "githubUrl": "https://github.com",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "Weather Application",
+    "description": "Beautiful weather application with real-time data, forecasts, and location-based services.",
+    "longDescription": "A sleek weather app featuring real-time weather data, multi-location support, detailed forecasts, and weather alerts. Built with responsive design principles for all devices. Includes interactive maps and air quality information.",
+    "image": "/placeholder.svg?height=400&width=600",
+    "mainFeatures": [
+      "Real-time weather data",
+      "Extended weather forecasts",
+      "Multi-location support",
+      "Weather alerts and notifications",
+      "Air quality information",
+      "Interactive weather maps"
+    ],
+    "gallery": [
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600",
+      "/placeholder.svg?height=400&width=600"
+    ],
+    "technologies": ["React", "Weather API", "Mapbox", "Tailwind CSS"],
+    "liveUrl": "https://example.com",
+    "githubUrl": "https://github.com",
+    "featured": false
+  }
+]

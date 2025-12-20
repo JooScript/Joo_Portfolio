@@ -1,0 +1,84 @@
+{
+  "website": {
+    "title": "Full Stack Developer Portfolio",
+    "description": "Modern portfolio showcasing projects, skills, and experience"
+  },
+  "hero": {
+    "titleEn": "Hello, I'm a Full Stack Developer",
+    "titleAr": "مرحباً، أنا مطور Full Stack",
+    "subtitleEn": "I build modern, responsive web applications with beautiful UI and solid backend architecture",
+    "subtitleAr": "أقوم ببناء تطبيقات ويب حديثة وسريعة الاستجابة بواجهات مستخدم جميلة وهندسة خلفية قوية",
+    "ctaEn": "View My Work",
+    "ctaAr": "اعرض أعمالي"
+  },
+  "about": {
+    "titleEn": "About Me",
+    "titleAr": "عني",
+    "headingEn": "Building the Future of Web",
+    "headingAr": "بناء مستقبل الويب",
+    "highlightEn": "Future",
+    "highlightAr": "مستقبل",
+    "introEn": "5+ years of experience crafting digital experiences that make a difference. I believe in writing clean, maintainable code and creating intuitive user interfaces.",
+    "introAr": "5+ سنوات من الخبرة في صياغة التجارب الرقمية التي تحدث فرقاً. أؤمن بكتابة رمز نظيف وسهل الصيانة وإنشاء واجهات مستخدم حدسية.",
+    "paragraphOneEn": "As a fullstack developer, I bridge the gap between design and functionality. I specialize in building scalable web applications from concept to deployment, ensuring every line of code serves a purpose.",
+    "paragraphOneAr": "كمطور ويب متكامل، أقوم بسد الفجوة بين التصميم والوظيفة. أتخصص في بناء تطبيقات ويب قابلة للتوسع من المفهوم إلى النشر، مما يضمن أن كل سطر رمز يخدم غرضاً.",
+    "paragraphTwoEn": "When I'm not coding, you'll find me contributing to open-source projects, writing technical articles, or exploring the latest in web technologies. I'm driven by the challenge of solving complex problems with elegant solutions.",
+    "paragraphTwoAr": "عندما لا أكون أكتب الأكواد، ستجدني أساهم في مشاريع المصدر المفتوح، وأكتب مقالات تقنية، أو أستكشف أحدث التقنيات على الويب. أنا مدفوع بتحدي حل المشاكل المعقدة بحلول أنيقة.",
+    "stats": [
+      {
+        "numberEn": "50+",
+        "numberAr": "50+",
+        "labelEn": "Projects Completed",
+        "labelAr": "مشاريع مكتملة"
+      },
+      {
+        "numberEn": "5+",
+        "numberAr": "5+",
+        "labelEn": "Years Experience",
+        "labelAr": "سنوات من الخبرة"
+      },
+      {
+        "numberEn": "30+",
+        "numberAr": "30+",
+        "labelEn": "Happy Clients",
+        "labelAr": "عملاء سعداء"
+      }
+    ],
+    "codeBlockEn": "const developer = {\n  name: \"John Doe\",\n  role: \"Fullstack Developer\",\n  location: \"San Francisco, CA\",\n  skills: [\n    \"React\", \"TypeScript\",\n    \"Node.js\", \"PostgreSQL\"\n  ],\n  passion: \"Building great UX\",\n  available: true\n};",
+    "codeBlockAr": "const developer = {\n  name: \"جون دو\",\n  role: \"مطور متكامل\",\n  location: \"سان فرانسيسكو، كاليفورنيا\",\n  skills: [\n    \"React\", \"TypeScript\",\n    \"Node.js\", \"PostgreSQL\"\n  ],\n  passion: \"بناء تجارب مستخدم رائعة\",\n  available: true\n};"
+  },
+  "projects": {
+    "titleEn": "Featured Projects",
+    "titleAr": "المشاريع المختارة",
+    "subtitleEn": "Explore my recent work and technical achievements",
+    "subtitleAr": "استكشف أعمالي الأخيرة والإنجازات التقنية"
+  },
+  "skills": {
+    "frontendEn": "Frontend",
+    "frontendAr": "الواجهة الأمامية",
+    "frontendTechs": ["React", "Next.js", "TypeScript", "Tailwind CSS", "Redux"],
+    "backendEn": "Backend",
+    "backendAr": "الخلفية",
+    "backendTechs": ["Node.js", "PostgreSQL", "MongoDB", "GraphQL", "REST APIs"],
+    "toolsEn": "Tools & More",
+    "toolsAr": "الأدوات والمزيد",
+    "toolsTechs": ["Git", "Docker", "AWS", "Vercel", "CI/CD"]
+  },
+  "contact": {
+    "titleEn": "Get In Touch",
+    "titleAr": "تواصل معي",
+    "subtitleEn": "Have a project in mind? Let's collaborate and create something amazing together.",
+    "subtitleAr": "هل لديك مشروع في الاعتبار؟ دعنا نتعاون وننشئ شيئاً رائعاً معاً.",
+    "emailEn": "Email",
+    "emailAr": "البريد الإلكتروني",
+    "phoneEn": "Phone",
+    "phoneAr": "الهاتف"
+  },
+  "social": {
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "twitter": "https://twitter.com",
+    "email": "contact@example.com",
+    "phone": "+1 (555) 123-4567"
+  }
+}
