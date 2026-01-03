@@ -18,3 +18,7 @@ function toggleMenu() {
         `;
       });
     });
+
+    const copyRights = document.getElementById('copy-rights');
+    const currentYear = new Date().getFullYear();
+    copyRights.innerHTML = `Copyright &#169; ${currentYear} Joo Script. All Rights Reserved.`;
